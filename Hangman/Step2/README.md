@@ -10,6 +10,7 @@ In this step, we create a placeholder for the chosen word, which will be display
 
 - **Placeholder Creation**: Generates a string of underscores corresponding to the length of the chosen word.
 - **User Input**: Continues to allow the user to guess letters.
+```
 
 ### Code Snippet
 
@@ -19,4 +20,4 @@ In this step, we create a placeholder for the chosen word, which will be display
         placeholder += "_"
     print(placeholder)
     ```
-```
+
