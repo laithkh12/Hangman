@@ -19,3 +19,4 @@ for position in range(len(chosenWord)):
     placeholder += "_"
 print(placeholder)
 ```
+```
