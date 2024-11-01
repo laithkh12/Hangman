@@ -15,10 +15,10 @@ Welcome to the Word Guessing Game! This project is a fun and interactive word gu
 This project consists of multiple steps, each building upon the previous one. Each step has its own README for detailed explanations and instructions.
 
 - [Step 1: Basic Setup](https://github.com/laithkh12/Hangman/tree/main/Hangman/Step1/README.md)
-- [Step 2: Adding Placeholders]([step2/README.md](https://github.com/laithkh12/Hangman/blob/main/Hangman/Step2/README.md))
-- [Step 3: Implementing a Loop for Guesses](https://github.com/laithkh12/Hangman/blob/main/Hangman/Step3/README.md)
-- [Step 4: Adding Lives and Losing Condition]([step4/README.md](https://github.com/laithkh12/Hangman/blob/main/Hangman/Step4/README.md))
-- [Step 5: Modularizing Code with Separate Files]([step5/README.md](https://github.com/laithkh12/Hangman/blob/main/Hangman/Step5/README.md))
+- [Step 2: Adding Placeholders](https://github.com/laithkh12/Hangman/tree/main/Hangman/Step2/README.md)
+- [Step 3: Implementing a Loop for Guesses](https://github.com/laithkh12/Hangman/tree/main/Hangman/Step3/README.md)
+- [Step 4: Adding Lives and Losing Condition](https://github.com/laithkh12/Hangman/tree/main/Hangman/Step4/README.md)
+- [Step 5: Modularizing Code with Separate Files](https://github.com/laithkh12/Hangman/tree/main/Hangman/Step5/README.md)
 
 ## Installation
 
