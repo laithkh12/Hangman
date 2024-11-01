@@ -13,11 +13,12 @@ In this step, we create a placeholder for the chosen word, which will be display
 ```
 
 ### Code Snippet
-
-    ```python
+```python
     placeholder = ""
     for position in range(len(chosenWord)):
         placeholder += "_"
     print(placeholder)
-    ```
+```
+
+    
 
